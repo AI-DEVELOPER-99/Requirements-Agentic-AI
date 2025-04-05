@@ -2,7 +2,7 @@
 
 # 🤖 CrewAI Jira Integration
 
-This project shows how to use a CrewAI agenst to create automated JIRA issues and test plans.
+This project shows how to use a CrewAI agents to create automated JIRA issues and test plans.
 
 ---
 
